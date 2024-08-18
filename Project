@@ -1,0 +1,30 @@
+Class Main {
+public static main[] arg) {
+system.out.println("Hello World!");
+System,out.println("I am an awesome programmer");
+System.out.print(" I am learning something new!");
+System.out.println(" Look at everything I am learning about print statements);
+
+System,out.println();
+System.out.println(24);
+System.out.println(2,4);
+System.out.println("A');
+
+
+public int returnInt(){
+   return 5; //Will always return the value 5
+}
+int x = 5;
+byte b = 2;
+short s = 45;
+long l = 342342342l;
+float f = 546.324f;
+double d = 34.5;
+char val = 'A';
+String dip = "Salsa";
+
+//string avalue in a variable
+int myVariable;
+myVariable = 8; 
+}
+}
